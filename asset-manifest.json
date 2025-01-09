@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ItemDex/static/css/main.31d6cfe0.css",
+    "main.js": "/ItemDex/static/js/main.811b70fb.js",
+    "index.html": "/ItemDex/index.html",
+    "main.811b70fb.js.map": "/ItemDex/static/js/main.811b70fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.811b70fb.js"
+  ]
+}
